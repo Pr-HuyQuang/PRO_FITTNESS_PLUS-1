@@ -4,11 +4,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9D0C83E9-51EF-4FA4-BB2E-0DA99AA2853B}"
-	ProjectSection(SolutionItems) = preProject
-		redme.md = redme.md
-	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRO_FITTNESS_PLUS_WebsiteTinTuc", "PRO_FITTNESS_PLUS_WebsiteTinTuc\PRO_FITTNESS_PLUS_WebsiteTinTuc.csproj", "{0F49F263-1AC3-4871-9009-98CDDE232468}"
 EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F49F263-1AC3-4871-9009-98CDDE232468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F49F263-1AC3-4871-9009-98CDDE232468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F49F263-1AC3-4871-9009-98CDDE232468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F49F263-1AC3-4871-9009-98CDDE232468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
