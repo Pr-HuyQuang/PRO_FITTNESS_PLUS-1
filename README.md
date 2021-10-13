@@ -1,6 +1,6 @@
 # PRO_FITTNESS_PLUS
 Project nhóm: Hùng - Thái - Sơn - Trịnh Quyền - Huy Quang làm báo cáo môn học LTWNC
-## Đề tài nhóm: Website tin tức
+## Đề tài nhóm: Website quản lý
 ## Sử dụng các công nghệ
 - MVC 5
 - javascript AJAX
